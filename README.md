@@ -1,2 +1,2 @@
 # Respository
-Descripció
+Exemple de readme
